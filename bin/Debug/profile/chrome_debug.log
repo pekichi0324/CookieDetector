@@ -1,0 +1,3 @@
+[2364:1028:0310/002020.497:INFO:CONSOLE(7)] "SW registered", source: https://www.google.com/_/chrome/newtab?ie=UTF-8 (7)
+[2364:1028:0310/002021.486:INFO:CONSOLE(5)] "Mixed Content: The page at 'https://www.cpp.edu/~jinjinglee/test.html' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Open+Sans:300,400,600'. This request has been blocked; the content must be served over HTTPS.", source: https://www.cpp.edu/~jinjinglee/test.html (5)
+[2364:1028:0310/002022.396:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://community.mybb.com/thread-205903.html (0)
